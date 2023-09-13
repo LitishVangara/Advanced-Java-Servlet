@@ -1,0 +1,10 @@
+127.0.0.1 - - [09/Apr/2023:21:30:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Apr/2023:21:30:29 +0530] "GET /FirstWebProject/Students.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [09/Apr/2023:21:30:29 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [09/Apr/2023:21:30:34 +0530] "GET /FirstWebProject/FourthServlet?rollno=582 HTTP/1.1" 200 200
+0:0:0:0:0:0:0:1 - - [09/Apr/2023:21:31:02 +0530] "GET /FirstWebProject/FourthServlet?rollno=582 HTTP/1.1" 200 204
+0:0:0:0:0:0:0:1 - - [09/Apr/2023:21:31:27 +0530] "GET /FirstWebProject/FourthServlet?rollno=583 HTTP/1.1" 200 138
+127.0.0.1 - - [09/Apr/2023:21:50:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Apr/2023:21:50:29 +0530] "GET /FirstWebProject/Employee.html HTTP/1.1" 200 451
+0:0:0:0:0:0:0:1 - - [09/Apr/2023:21:50:43 +0530] "POST /FirstWebProject/DisplayDataUsingHTTPServlet HTTP/1.1" 200 145
+0:0:0:0:0:0:0:1 - - [09/Apr/2023:21:51:02 +0530] "POST /FirstWebProject/DisplayDataUsingHTTPServlet HTTP/1.1" 200 141

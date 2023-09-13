@@ -1,0 +1,8 @@
+127.0.0.1 - - [13/Apr/2023:09:46:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:09:46:59 +0530] "GET /FirstWebProject/LoginOperation.html HTTP/1.1" 200 531
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:09:46:59 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:09:47:45 +0530] "POST /FirstWebProject/LoginOperation1 HTTP/1.1" 200 992
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:10:07:36 +0530] "POST /FirstWebProject/LogoutOperation1 HTTP/1.1" 200 605
+127.0.0.1 - - [13/Apr/2023:10:28:40 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:10:28:41 +0530] "GET /FirstWebProject/LoginOperation.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:10:29:08 +0530] "POST /FirstWebProject/LoginOperation1 HTTP/1.1" 200 997

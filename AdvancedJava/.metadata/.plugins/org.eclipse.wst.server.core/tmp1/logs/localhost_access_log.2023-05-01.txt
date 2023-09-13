@@ -1,0 +1,5 @@
+127.0.0.1 - - [01/May/2023:10:05:01 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/May/2023:10:05:02 +0530] "GET /FirstWebProject/Demo.html HTTP/1.1" 200 618
+0:0:0:0:0:0:0:1 - - [01/May/2023:10:05:02 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/May/2023:10:05:28 +0530] "GET /FirstWebProject/SecondServlet?eid=1555555&ename=fthfhvh&esalary=562353&dept=30 HTTP/1.1" 200 168
+0:0:0:0:0:0:0:1 - - [01/May/2023:10:07:32 +0530] "GET /FirstWebProject/SecondServlet?eid=1555555&ename=fthfhvh&esalary=562353&dept=30 HTTP/1.1" 200 224
